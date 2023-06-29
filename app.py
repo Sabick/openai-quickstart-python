@@ -29,6 +29,12 @@ Animal: Cat
 Names: Captain Sharpclaw, Agent Fluffball, The Incredible Feline
 Animal: Dog
 Names: Ruff the Protector, Wonder Canine, Sir Barks-a-Lot
+Animal: Hamster
+Names: Rex  the Shine, Squeaky  Booky, Bandit 
+Animal: Rabbit
+Names: Thumper Bolt, Bella Chao, Charlie King
+Animal: Turtles
+Names: Donatello, Speedy, Shelby
 Animal: {}
 Names:""".format(
         animal.capitalize()
